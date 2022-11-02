@@ -1,3 +1,4 @@
+
 function checkprime(number){
   let bag=0;
 for(let i=1; i<=number; i++){
@@ -24,4 +25,5 @@ let ans=checkprime(13);
 
   {
    console.log("Not a Prime Number");
+
   }
